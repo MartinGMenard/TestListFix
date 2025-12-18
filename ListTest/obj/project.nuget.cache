@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VqUL5DPAEk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corey.greene\\source\\repos\\TestListFix\\ListTest\\ListTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corey.greene\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.1\\microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\Corey.greene\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
